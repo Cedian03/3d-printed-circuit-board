@@ -7,11 +7,11 @@ Work in progress 3D printable keyboard PCB. Traces are formed with copper tape g
 
 ## Board properties
 
-- Board thickness is set at `PCB Editor->Board setup->Physical Stackup->Dielectric 1->Thinkness`
-- Trace height is set at `PCB Editor->Board setup->Physical Stackup->F.Cu/B.Cu->Thinkness`
+- Board thickness is set at `PCB Editor->Board setup->Physical Stackup->Dielectric 1->Thickness`
+- Trace height is set at `PCB Editor->Board setup->Physical Stackup->F.Cu/B.Cu->Thickness`
 
 Or they can be edited in CAD after exporting.
 
-## Recomended export settings
+## Recommended export settings
 
-![Recomended export settings](assets/recomended_export_settings.png)
+![Recommended export settings](assets/recommended_export_settings.png)
