@@ -1,7 +1,7 @@
 
 # 3D Printed Circuit Board
 
-![First prototype](assets/prototype_v0_1.png)
+![Third prototype](assets/prototype_v0_3.png)
 
 Work in progress 3D printable keyboard PCB. Traces are formed with copper tape guided by raised 3D printed tracks.
 
